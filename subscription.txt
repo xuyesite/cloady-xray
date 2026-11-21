@@ -1,0 +1,2 @@
+vless://9e374728-9c52-4eea-8210-aa4c69cc9b30@cloady-xray-y7wolhq7-xuyesite.cloady.io:443?encryption=none&security=tls&sni=cloady-xray-y7wolhq7-xuyesite.cloady.io&type=ws&host=cloady-xray-y7wolhq7-xuyesite.cloady.io&path=%2F8b669312bd1f2260#cloady-xray
+vless://e084e79b-02a2-48bc-869a-cb820e202c59@3000-agq76l4alhe6cde3vtbbpqrscy.instabox.tech:443?encryption=none&security=tls&sni=3000-agq76l4alhe6cde3vtbbpqrscy.instabox.tech&type=ws&host=3000-agq76l4alhe6cde3vtbbpqrscy.instabox.tech&path=%2F498ce8b4b05481b7#instabox-xray
